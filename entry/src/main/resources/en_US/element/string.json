@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "Traffic Consumer"
+    },
+    {
+      "name": "module_desc",
+      "value": "Traffic Consumer main module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Traffic Consumer entry"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "TrafficConsumer"
+    },
+    {
+      "name": "internet_reason",
+      "value": "Used to download network data for traffic consumption"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "traffic-consumer",
+  "version": "1.0.0",
+  "ohos": {
+    "org": "kut",
+    "buildTool": "hvigor",
+    "directoryLevel": "project"
+  },
+  "description": "流量消耗器 - 网络流量测试工具",
+  "license": "UNLICENSED",
+  "dependencies": {}
+}

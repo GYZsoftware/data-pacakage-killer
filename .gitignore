@@ -1,0 +1,33 @@
+# Build outputs
+entry/build/
+build/
+*.hap
+*.app
+*.hapx
+
+# Hvigor cache & metadata
+.hvigor/
+
+# IDE workspace
+.idea/
+
+# Generated intermediate files
+*.protoBin
+*.msgpack
+*.tsbuildinfo
+*.cache
+
+# Build logs & reports
+*.log
+
+# Local debugging artifacts
+local.properties
+signing/
+
+# Local signing config (add signing config file here if you extract it)
+signing-config.json5
+local.properties
+
+# Temporary files
+*.tmp
+*.temp

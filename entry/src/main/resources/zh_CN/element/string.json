@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "流量消耗器"
+    },
+    {
+      "name": "module_desc",
+      "value": "流量消耗器主模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "流量消耗器入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "流量消耗器"
+    },
+    {
+      "name": "internet_reason",
+      "value": "用于下载网络数据消耗流量"
+    }
+  ]
+}

@@ -1,7 +1,6 @@
 # 流量消耗器 (DataPackageKiller)
 
-> 一个 HarmonyOS NEXT（API 12）网络流量测试工具。
-> 作者：kut — 一个略懂点信息技术的初中历史教师，AI 辅助编程（vibe coding）初体验。
+> 一个 HarmonyOS NEXT（API 12）网络流量测试工具。<br>作者：kut — 一个略懂点信息技术的初中历史教师，AI 辅助编程（vibe coding）初体验。
 
 ## 功能特性
 

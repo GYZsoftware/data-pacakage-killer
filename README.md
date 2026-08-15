@@ -1,6 +1,6 @@
 # 流量消耗器 (DataPackageKiller)
 
-> 一个 HarmonyOS NEXT（API 12）网络流量测试工具。<br>作者：kut — 一个略懂点信息技术的初中历史教师，AI 辅助编程（vibe coding）初体验。
+> 一个 HarmonyOS NEXT（API 12）网络流量测试工具。
 
 ## 功能特性
 
@@ -19,8 +19,8 @@
 | **首次引导** | 首次使用弹出欢迎浮层引导 |
 
 ## 截图
-<img width="1260" height="2478" alt="2" src="https://github.com/user-attachments/assets/1ab4d91f-5998-4f46-ae3c-a0b5a690a6e2" />
-<img width="1257" height="2510" alt="1" src="https://github.com/user-attachments/assets/8c0a1dd7-722f-467b-b9c5-05301bc7c56d" />
+<img width="126" height="247" alt="2" src="https://github.com/user-attachments/assets/1ab4d91f-5998-4f46-ae3c-a0b5a690a6e2" />
+<img width="125" height="251" alt="1" src="https://github.com/user-attachments/assets/8c0a1dd7-722f-467b-b9c5-05301bc7c56d" />
 
 ## 技术栈
 
@@ -35,7 +35,7 @@
 ## 项目结构
 
 ```
-cmcc/
+data-pacakage-killer/
 ├── AppScope/
 │   ├── app.json5                    # 应用配置（bundleName、版本）
 │   └── resources/base/element/      # 应用级资源

@@ -20,8 +20,8 @@
 | **首次引导** | 首次使用弹出欢迎浮层引导 |
 
 ## 截图
-
-（待补充）
+<img width="1260" height="2478" alt="2" src="https://github.com/user-attachments/assets/1ab4d91f-5998-4f46-ae3c-a0b5a690a6e2" />
+<img width="1257" height="2510" alt="1" src="https://github.com/user-attachments/assets/8c0a1dd7-722f-467b-b9c5-05301bc7c56d" />
 
 ## 技术栈
 

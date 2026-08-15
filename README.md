@@ -1,6 +1,8 @@
 # 流量消耗器 (DataPackageKiller)
 
-> 一个 HarmonyOS NEXT（API 12）网络流量测试工具。
+[![MulanPSL-2](https://img.shields.io/badge/License-MulanPSL--2-blue.svg)](https://license.coscl.org.cn/MulanPSL-2)
+
+> 一个为 HarmonyOS NEXT（API 12）打造的网络流量测试工具，也是作者初入vibe coding世界的第二部作品。
 
 ## 功能特性
 
@@ -31,6 +33,7 @@
 - **网络：** `@ohos.net.http`（ARRAY_BUFFER 模式）
 - **页面路由：** `@ohos.router`
 - **屏幕控制：** `@kit.ArkUI`（window API）
+- **vibe coding：** Cherry Studio V2.0.5 +DeepSeek V4-Flash on SiliconFlow
 
 ## 项目结构
 
